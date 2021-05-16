@@ -5,3 +5,5 @@ pyserial==3.5
 pyudev==0.22.0
 rshell==0.0.30
 six==1.15.0
+
+matplotlib~=3.4.2
